@@ -1,4 +1,4 @@
-import re
+copilot_suggestion1.pyimport re
 
 def detect_tabular_data(filename, delimiters=None, line_endings='\n', min_rows=3):
     # Default delimiters
