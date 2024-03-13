@@ -1,0 +1,43 @@
+	In blanditiis quasi delectus, magnam sed recusandae eveniet, aliquam ad
+excepturi similique quasi id natus reprehenderit eveniet? Nobis laborum
+voluptatum modi beatae exercitationem consectetur esse inventore ipsam corrupti
+incidunt, eius corporis incidunt id sint alias quibusdam vitae dolor
+accusantium, et harum ea natus totam ab eaque autem, nulla perferendis iure aut
+quisquam temporibus magnam quibusdam necessitatibus saepe quod? Eum sint
+similique fugit iusto quasi porro, dolor veritatis odit, neque ex autem
+distinctio eligendi quos ea doloribus quis? Libero tempora nesciunt sunt in eos
+natus possimus molestias deleniti quod quo, animi quisquam maxime repellat,
+assumenda corrupti quidem aliquid impedit asperiores non deserunt recusandae,
+iste repudiandae suscipit assumenda natus aliquid molestiae sint velit?
+	Architecto labore fugiat cumque repellat magnam veritatis tenetur vel, iure
+neque illo aut labore provident recusandae quas vero officiis veniam. Debitis
+facilis consectetur blanditiis facere quisquam accusamus est voluptatem
+laboriosam quo, est accusamus provident nulla libero animi deleniti, fugit ut
+possimus corporis officiis nobis sint, molestiae commodi illum officia
+necessitatibus voluptatum. Repellendus inventore obcaecati, magnam tempora odio
+vero architecto explicabo repellendus modi ducimus distinctio voluptatum, nam
+autem praesentium consequuntur sint facere, consequatur sapiente delectus
+perferendis quisquam recusandae? Obcaecati officia similique corrupti velit
+dignissimos nihil, quibusdam rerum optio cumque alias placeat minus esse in est,
+qui eum sit incidunt ullam, cumque numquam possimus repudiandae nemo sequi iste
+facilis maxime quod in?
+		aString|anInt|aDate|aFloat
+		string1|1|2024-01-01|0.123
+		string2|2|2024-01-02|1.456
+		string3|3|2024-01-03|2.789
+		string4|4|2024-01-04|3.123
+	Animi vitae laboriosam aperiam voluptatibus eius veritatis ullam reprehenderit
+ut repellat, facilis consequuntur sint ipsam corporis officiis nihil repudiandae
+reiciendis eius in veritatis. Laudantium repellendus iste veniam maiores nam
+sit, eos laborum odit perferendis quisquam ex commodi sapiente neque, sed vero
+et, consequatur vitae repudiandae magnam veritatis rerum libero nulla accusamus,
+optio autem itaque omnis quam odit doloremque quisquam.
+	Molestias expedita molestiae aut architecto beatae maxime quaerat facere
+dolorum, expedita quia maxime aperiam, a molestias iure voluptate beatae qui
+ipsum. Minus ratione dicta modi deserunt fugit in explicabo eaque eius, vero
+reiciendis vel architecto nostrum, aliquam recusandae voluptatibus debitis
+deleniti, excepturi sed nesciunt animi cupiditate accusantium repudiandae dolore
+voluptas alias. Necessitatibus voluptate voluptatum magni quaerat beatae ipsam
+quae, iste autem numquam qui, placeat vel ullam, eveniet quas est quaerat. Quia
+placeat asperiores nam, animi dolorum autem enim ea, autem quisquam dolorum
+molestias, nulla quod provident eos.

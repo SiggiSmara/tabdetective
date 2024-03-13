@@ -1,0 +1,32 @@
+	Temporibus eveniet itaque voluptates voluptatum corporis laborum impedit neque
+cum atque, enim esse ipsa, ipsum minus officia sapiente possimus architecto
+veritatis dolorem eum commodi dolor consectetur, aliquid asperiores deserunt
+libero necessitatibus officia enim excepturi nesciunt quam? Quaerat alias
+maiores recusandae reiciendis fugit accusamus, illum sequi temporibus facere
+dolore neque vitae quis explicabo voluptatem, laudantium veniam optio molestias
+pariatur, porro aperiam laborum tenetur harum.
+	Necessitatibus laboriosam voluptatibus incidunt tempora omnis, molestias
+cupiditate quia ut ipsa perferendis vel suscipit est expedita sequi, repudiandae
+expedita laboriosam porro dolorem commodi assumenda vero similique, ipsam
+numquam corrupti. Praesentium architecto placeat ad iure laudantium, sed in quae
+accusantium? Facilis vel magni illo ea, alias illo aliquam sed ipsum enim
+exercitationem voluptatum suscipit in fuga?
+	Fugit dolore corrupti eos soluta praesentium iure mollitia blanditiis, nulla
+obcaecati quis, cum corrupti optio quam veniam alias rerum vitae quia
+voluptatem, porro mollitia deleniti autem a ratione optio praesentium amet qui
+ipsum accusantium? Odit laborum tenetur labore sit tempora fugiat eligendi
+voluptates consequatur, aperiam sapiente dolorem porro ad? Incidunt quidem
+ratione consequuntur sed ducimus similique alias delectus et, eum repellendus
+minima soluta esse modi aut?
+		aString,anInt,aDate,aFloat
+		string1,1,2024-01-01,0.123
+		string2,2,2024-01-02,1.456
+		string3,3,2024-01-03,2.789
+		string4,4,2024-01-04,3.123
+	Itaque saepe harum obcaecati, maxime quia sed ratione nostrum rem neque odio
+obcaecati eum odit laudantium. Voluptatum reiciendis similique facilis esse
+quaerat doloribus laudantium delectus illo hic, nisi nam atque, incidunt quas
+commodi eius quisquam dolore nisi repellat dolor fugit neque. Fugiat mollitia
+quidem assumenda cupiditate quasi saepe quis autem, nisi vero cumque porro,
+tempora beatae aliquid porro, quis ducimus veniam sunt dolorem est ipsam nihil,
+inventore magni similique sit iste impedit ullam voluptate tempore vero aliquam?
