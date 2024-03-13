@@ -1,0 +1,57 @@
+Odit laboriosam ab, accusamus quasi ipsa vero doloremque illum corporis nemo
+similique incidunt nulla. Sunt voluptas optio consequuntur facere illum rem cum
+ratione id perspiciatis, cumque omnis soluta ad iusto et possimus, excepturi at
+quae quaerat cum, soluta temporibus atque cumque quis quo? Aspernatur iste
+molestiae laboriosam facilis porro blanditiis perferendis quas animi unde quasi,
+quam sequi laboriosam repellendus quaerat neque eum cum facere qui ut, quisquam
+at dignissimos culpa nobis et facere deserunt iusto quasi? Libero laboriosam
+amet eaque officia dolorem optio laudantium exercitationem dolore nostrum eum,
+aut ullam repellendus, blanditiis facere voluptas soluta quisquam earum rerum
+quasi, et eaque a praesentium excepturi perspiciatis corporis eos, magni minus
+quam iusto.
+
+Cum necessitatibus recusandae debitis molestiae commodi, libero dicta suscipit
+ea voluptatibus? Cumque vel hic eveniet tempora consequuntur voluptatibus est
+enim maxime similique, facilis dolore reiciendis harum rem asperiores beatae
+eius inventore molestiae, doloremque possimus exercitationem dolore illum
+consequatur dolorem voluptates. Iste exercitationem omnis accusantium, similique
+impedit ducimus dolorum voluptate provident, ut debitis magni mollitia ad. Ut
+beatae corporis quas facilis culpa, suscipit laborum odit molestiae.
+
+Recusandae corrupti numquam dolor aliquid unde dolore, expedita dolores
+consequuntur obcaecati odit rem quasi nam asperiores beatae, neque aliquam
+similique velit tempora excepturi? Voluptates tempora quis possimus velit, ut
+eveniet laboriosam accusamus labore, molestias minus porro incidunt unde laborum
+vel dolore, sequi quia harum voluptas labore. Quibusdam corporis sit commodi
+veniam laborum, cumque incidunt sit sapiente esse cum velit iusto reiciendis?
+
+aString;anInt;aDate;aFloat
+string1;1;2024-01-01;0.123
+string2;2;2024-01-02;1.456
+string3;3;2024-01-03;2.789
+string4;4;2024-01-04;3.123
+
+
+Odit repudiandae magni, earum adipisci vel cumque, neque debitis ipsa
+voluptatem. Nisi vitae similique consectetur et, incidunt eveniet eius
+aspernatur dolore repudiandae?
+
+Reiciendis fugiat eveniet, nesciunt odit dolorem similique provident a
+recusandae adipisci ab odio itaque, mollitia itaque eaque provident non, eaque
+doloribus eius numquam asperiores sequi voluptatibus placeat? Natus autem
+placeat ad officia tempore repudiandae adipisci quod, maxime ut vitae quo nulla
+debitis odio. Aliquam dicta nisi nam maxime at iste eos laudantium iure velit
+qui, minima architecto necessitatibus quisquam cumque possimus ipsa quaerat
+pariatur unde illo quas, tenetur doloremque dolor nobis nihil rem earum quod
+iste magni illum similique, ullam et vitae natus nam doloribus totam, a hic
+provident aliquam facilis ipsa cupiditate. Quos ratione tenetur molestias qui
+esse rem magni quisquam, hic officia animi ex excepturi sapiente sint veniam
+molestiae pariatur, omnis et rem provident velit numquam molestias suscipit
+quibusdam, accusamus ipsam magni ratione consequatur officia excepturi
+temporibus inventore, illum culpa harum?
+
+Sequi consectetur expedita animi tempora, sequi magni delectus odio eum
+obcaecati provident esse, laboriosam veritatis perferendis eius cum vero itaque.
+Ad facere recusandae reiciendis cupiditate minima adipisci, voluptas distinctio
+ad. Sit tempore quidem, id repudiandae dolores hic nostrum ad facere rem
+voluptates dolor.

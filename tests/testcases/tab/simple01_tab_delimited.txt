@@ -1,0 +1,46 @@
+Consequatur eius quaerat harum veritatis nesciunt pariatur libero eos vel esse,
+delectus nihil aspernatur voluptatem eligendi dolor omnis nam dolore numquam
+autem, molestias possimus repellat adipisci in tenetur recusandae voluptatum,
+fuga eum harum debitis reprehenderit illo iste saepe quidem unde? Necessitatibus
+cumque accusantium error nobis, dignissimos unde esse soluta sit itaque ratione
+culpa illo, quasi adipisci iusto repudiandae beatae voluptatem provident modi
+quas, reprehenderit corporis culpa rerum quos qui optio debitis deleniti
+quisquam. Consequatur veniam deserunt et fugit repudiandae esse mollitia eveniet
+harum, magni quae aperiam consectetur velit consequatur repellat expedita
+tempore eos, ab cupiditate sed quos dicta ex consequuntur ut ullam quam placeat
+temporibus, maxime accusamus est quae possimus autem odio provident?
+
+aString	anInt	aDate	aFloat
+string1	1	2024-01-01	0.123
+string2	2	2024-01-02	1.456
+string3	3	2024-01-03	2.789
+string4	4	2024-01-04	3.123
+
+
+Sapiente ullam consectetur odio aliquid sed omnis exercitationem optio obcaecati
+nihil, repellat exercitationem maiores molestias dolor, cum placeat voluptates
+autem eligendi sit fugit quia facilis. Beatae eaque quae, id sit nesciunt totam
+sed iusto beatae repudiandae repellendus? Perferendis est tempore nulla dolorem
+eos a ad odit, ad voluptas praesentium repudiandae ut ullam nemo?
+
+Ex nihil voluptas et sequi magni architecto exercitationem recusandae ducimus
+veniam, atque aliquid dolores reprehenderit animi deserunt aperiam blanditiis
+vel nulla at expedita, dolorum debitis sunt praesentium exercitationem aut quasi
+sapiente possimus natus, cum similique adipisci quisquam soluta neque ut
+repellat tenetur, modi atque maiores inventore obcaecati rerum architecto
+accusantium. Nisi obcaecati eaque fugit ut pariatur, esse tempora magni dolores,
+doloribus distinctio numquam veniam officiis maxime quod reprehenderit, laborum
+odit ducimus maiores quos quisquam, voluptatum dolorem quia nemo. Vitae soluta
+ipsum a doloribus earum quam, error vero dolores doloribus vel, minima deleniti
+enim quam cumque modi unde quidem autem quisquam quaerat, illo libero mollitia
+eius atque illum necessitatibus, ut minima corrupti perferendis explicabo illum
+laudantium est modi? Eligendi ducimus recusandae quibusdam laudantium quidem,
+modi sapiente voluptatibus repellendus veniam, officia blanditiis tempora rerum
+dolore harum quidem obcaecati ex tenetur.
+
+Repudiandae architecto doloribus culpa nostrum sint libero, optio molestias
+nesciunt magni voluptatem quibusdam quasi minima repudiandae laudantium fuga
+amet, dolore fuga cumque sit laborum voluptas praesentium modi impedit aperiam
+officia ea, vitae ipsum aspernatur repellat eaque nostrum inventore doloribus,
+dolore eos possimus repellendus quo? Iusto deserunt recusandae, omnis
+repellendus nulla totam quis obcaecati recusandae assumenda rerum modi a dolor.

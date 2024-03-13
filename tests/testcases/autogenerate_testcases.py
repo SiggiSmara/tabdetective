@@ -33,7 +33,7 @@ def lorem_paragraphs_wrapped(
     )
 
 
-def testcase_01(table: str) -> str:
+def case_01(table: str) -> str:
     num_paragraphs_before = random.randint(1, 3)
     num_paragraphs_after = random.randint(1, 3)
     paragraphs_before = lorem_paragraphs_wrapped(num_paragraphs_before)
@@ -41,7 +41,7 @@ def testcase_01(table: str) -> str:
     return "\n\n".join([paragraphs_before, table, paragraphs_after])
 
 
-def testcase_02(table: str) -> str:
+def case_02(table: str) -> str:
     num_paragraphs_before = random.randint(1, 3)
     num_paragraphs_after = random.randint(1, 3)
     paragraphs_before = lorem_paragraphs_wrapped(
@@ -56,7 +56,7 @@ def testcase_02(table: str) -> str:
     return "\n".join([paragraphs_before, table, paragraphs_after])
 
 
-def testcase_03(table: str) -> str:
+def case_03(table: str) -> str:
     num_paragraphs_before = random.randint(1, 3)
     num_paragraphs_after = random.randint(1, 3)
     paragraphs_before = lorem_paragraphs_wrapped(
@@ -74,23 +74,25 @@ def testcase_03(table: str) -> str:
 # Get a list of the template files,
 # figure out first the path to the testcases directory
 # and then glob the .txt files in the templates directory
-testcases_dir = Path("testcases")
+testcases_dir = Path(__file__).parent
 template_dir = testcases_dir / "templates"
 table_template_files = list(template_dir.glob("*.txt"))
 
 # initial round of testcase generation
 for template_file in table_template_files:
+    dest_folder = testcases_dir / template_file.stem.split("_")[0]
+    dest_folder.mkdir(exist_ok=True)
     with open(template_file, "r") as f:
         table = f.read()
-    testcase = testcase_01(table)
-    testcase_file = testcases_dir / f"simple01_{template_file.stem}.txt"
+    testcase = case_01(table)
+    testcase_file = dest_folder / f"simple01_{template_file.stem}.txt"
     with open(testcase_file, "w") as f:
         f.write(testcase)
-    testcase = testcase_02(table)
-    testcase_file = testcases_dir / f"simple02_{template_file.stem}.txt"
+    testcase = case_02(table)
+    testcase_file = dest_folder / f"simple02_{template_file.stem}.txt"
     with open(testcase_file, "w") as f:
         f.write(testcase)
-    testcase = testcase_03(table)
-    testcase_file = testcases_dir / f"simple03_{template_file.stem}.txt"
+    testcase = case_03(table)
+    testcase_file = dest_folder / f"simple03_{template_file.stem}.txt"
     with open(testcase_file, "w") as f:
         f.write(testcase)

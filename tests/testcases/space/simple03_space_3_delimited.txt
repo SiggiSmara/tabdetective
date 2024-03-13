@@ -1,0 +1,37 @@
+	Excepturi praesentium quos voluptatibus cupiditate asperiores atque maxime,
+minima aperiam recusandae consequuntur itaque nobis neque deleniti eligendi
+ipsum molestiae obcaecati, aperiam quisquam obcaecati eaque tempora minus, odit
+neque debitis explicabo amet sapiente dolorum velit perferendis nihil aliquid.
+Asperiores eos neque eaque explicabo eveniet animi repudiandae consequatur
+voluptatum, corporis assumenda alias cum voluptatem laboriosam voluptas atque
+accusamus accusantium, voluptatum sapiente odio quas nihil dolore id beatae est.
+Unde sequi eos similique, id quo cupiditate consectetur odit eveniet deleniti
+optio asperiores, voluptas ipsam veritatis distinctio.
+	Illo ea sit minima mollitia, voluptates reprehenderit saepe nobis nesciunt nemo
+repellendus at eaque, veniam officia qui nemo voluptate est at molestias
+doloribus corporis ad quia. Quibusdam aliquam cumque laudantium blanditiis,
+asperiores eos quos officia, velit tempora accusamus magnam possimus sit ex
+labore. Quas numquam voluptates laborum ea saepe distinctio adipisci, corporis
+dolorem fugiat nulla est?
+	Perferendis ab illum animi accusamus maiores nulla quos non nobis eius, at
+impedit porro, id dolore eius modi dolor enim tenetur quod soluta quibusdam
+error quia, culpa veniam magni labore quasi? Vel cumque atque, sint provident
+eaque odio consequuntur sapiente in, tempore eos quis magnam obcaecati molestias
+labore?
+		 aString   anInt    aDate       aFloat
+		-------- -------- ------------ --------
+		string1   1       2024-01-01   0.123
+		that is
+		long
+		string2   2       2024-01-02   1.456
+		string3   3       2024-01-03   2.789
+		string4   4       2024-01-04   3.123
+
+	Voluptatem alias ea dolor nam reiciendis fugiat recusandae facilis ex
+voluptatibus quibusdam, error provident ducimus similique? Delectus provident
+perferendis rerum iste iusto vel, debitis ratione officia eligendi ipsa ex dicta
+quibusdam nostrum, magnam eveniet consequatur nemo nam velit aspernatur
+distinctio adipisci illo dolor repudiandae. Aperiam libero sed, deleniti officia
+voluptas magni consequatur ea, fugiat sunt ipsam repudiandae necessitatibus vel
+error, quam optio repudiandae corrupti fugit laudantium voluptas tempore
+voluptatum consequuntur quidem in.

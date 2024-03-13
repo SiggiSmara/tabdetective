@@ -1,0 +1,41 @@
+	Delectus unde iure praesentium modi amet, illo vitae eos voluptatum, voluptates
+eaque hic, id omnis tempora iure quae labore dolorum officia eaque cupiditate
+corporis deleniti, aspernatur nemo ratione aperiam accusantium possimus et
+laudantium dolorum? Alias necessitatibus asperiores cumque earum ab harum
+numquam dolorem reprehenderit odit, beatae quas at incidunt necessitatibus ea
+veniam dolores laboriosam aut, doloremque consequatur vero deleniti, excepturi
+maiores molestias quaerat laboriosam tempore nihil consequatur, nemo cumque
+cupiditate ea atque earum maxime ex inventore sapiente tenetur? Excepturi
+aliquam necessitatibus tempora itaque suscipit explicabo, atque quia impedit a
+rerum dolorum tempora quos pariatur asperiores, nulla molestiae odit ducimus,
+hic iure atque sunt explicabo rerum exercitationem officiis. Non ea architecto
+enim eum dolore recusandae quidem dicta ex, assumenda saepe similique natus sit
+ipsam tempora, rerum repellendus debitis doloribus praesentium eos atque libero,
+beatae labore necessitatibus impedit corrupti nihil temporibus illum incidunt
+minus odio?
+		aString;anInt;aDate;aFloat
+		string1;1;2024-01-01;0.123
+		string2;2;2024-01-02;1.456
+		string3;3;2024-01-03;2.789
+		string4;4;2024-01-04;3.123
+
+	Veniam accusantium suscipit quidem eaque quae, veniam ducimus non accusantium
+doloribus voluptas provident temporibus, autem nesciunt velit eaque vel laborum.
+Quaerat illo beatae saepe explicabo quos, est hic mollitia nulla exercitationem,
+odit quod voluptas sed voluptatum ipsum autem doloribus atque, accusamus dolor
+adipisci sit, aliquam totam non officia nulla reprehenderit tempora est sequi?
+Obcaecati fuga assumenda nam accusantium molestiae vero sit perspiciatis placeat
+voluptatibus, quos nemo excepturi pariatur quae, beatae rerum id eligendi optio,
+temporibus eveniet iure eum est fugiat, earum ratione repellat non maiores
+soluta velit labore temporibus aspernatur magni expedita?
+	Molestiae reprehenderit dolor, dolore fuga culpa est voluptate cum, rerum culpa
+omnis eos, reprehenderit distinctio consequatur ea? Quae debitis asperiores
+provident, aperiam modi alias voluptatum blanditiis saepe enim quia voluptate
+consequuntur, nesciunt corporis excepturi quae vero quibusdam non itaque alias
+nobis officiis, corporis placeat voluptatum ducimus cum at incidunt unde dolorum
+esse reprehenderit quae? Dolorum nulla id accusantium laudantium optio a
+officia, nesciunt accusantium sit eligendi labore id libero nisi deserunt
+voluptatibus totam, reiciendis voluptatibus error enim voluptatem dolor
+aspernatur quo eligendi, ipsa repellat maiores quasi totam molestiae,
+reprehenderit similique tempora nemo commodi eius iusto accusantium molestias
+eligendi magni earum.

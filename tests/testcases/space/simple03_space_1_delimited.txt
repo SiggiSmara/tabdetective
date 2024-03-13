@@ -1,0 +1,24 @@
+	Autem molestiae perspiciatis iure labore recusandae unde tempora, omnis error
+exercitationem unde ut eveniet neque suscipit quasi adipisci, magni odit earum?
+Quaerat sunt a ea magnam soluta quos rerum totam quasi corporis, obcaecati cum
+blanditiis quasi doloremque. Molestias impedit velit, dolorum vero dicta, quia
+corrupti culpa quos, voluptatem iusto ut temporibus vel voluptatum, ab quidem
+omnis iusto? Illo earum omnis vitae quod a officia autem ipsa praesentium, fugit
+odio quis consectetur nihil?
+		aString   anInt   aDate        aFloat
+		string1   1       2024-01-01   0.123
+		string2   2       2024-01-02   1.456
+		string3   3       2024-01-03   2.789
+		string4   4       2024-01-04   3.123
+
+	Fuga laboriosam beatae nesciunt odit optio porro ea maiores, odio veritatis
+placeat molestias numquam esse beatae praesentium qui fugit delectus, ab fuga
+tempora beatae at exercitationem molestias culpa quae iusto unde, numquam nulla
+esse tempora ea non doloribus blanditiis ipsum aperiam minima. Fugiat eaque quia
+ex libero porro consequatur dolor iste magni corporis natus, facilis pariatur
+minima culpa et eos iusto voluptate amet illum perferendis? Ab consequuntur quis
+iusto harum suscipit laboriosam maiores at nostrum animi, aliquam doloribus
+magnam placeat necessitatibus quos minus obcaecati quaerat eaque, voluptate
+molestiae architecto ipsum aliquid provident harum possimus voluptatem
+perspiciatis? Voluptatem ipsa eos, nobis ipsum temporibus error praesentium
+repudiandae sit.

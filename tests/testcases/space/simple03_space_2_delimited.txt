@@ -1,0 +1,31 @@
+	Nemo eligendi cumque, quidem quas vero temporibus dicta id error voluptates
+dolor? Quos totam perferendis fugit libero animi iusto voluptatibus eaque
+officia, doloremque eveniet dignissimos ipsam vel qui, quas dolorem nihil omnis
+incidunt fugiat consequatur, iure facere nesciunt commodi incidunt unde?
+Quisquam maxime earum iusto dignissimos provident illo dolores, voluptatem quo
+alias maiores iusto velit incidunt nihil est eaque?
+		aString   anInt   aDate        aFloat
+		-------- ------- ------------ --------
+		string1   1       2024-01-01   0.123
+		string2   2       2024-01-02   1.456
+		string3   3       2024-01-03   2.789
+		string4   4       2024-01-04   3.123
+
+	Natus reprehenderit possimus debitis eligendi, dolor voluptates quae incidunt
+ipsam doloribus exercitationem id in, debitis ab officia inventore labore
+repellat reiciendis molestias impedit laudantium id, nostrum consectetur aut
+minima laboriosam quos ratione. Numquam nostrum ducimus quibusdam architecto
+molestiae eius sapiente est veniam minus, laudantium repudiandae nostrum
+repellendus totam ipsum tempore quidem, quis esse hic totam amet voluptatibus
+incidunt. Quaerat provident eaque obcaecati, odio atque quisquam saepe totam
+corporis ullam ut explicabo id ipsa esse, accusantium minus eum nesciunt qui
+excepturi architecto fugit quas itaque odio provident, dolore culpa magnam
+minima maiores suscipit itaque ab ut rerum magni eaque? Eaque molestiae ab porro
+autem quos ipsum officiis accusantium, labore quam numquam facere neque vel,
+numquam labore accusantium perferendis, assumenda eum voluptas beatae explicabo?
+	Minima velit exercitationem vel magni quisquam, modi perspiciatis ipsum vel
+ipsam vero, animi quia quam molestiae harum quod voluptatem quaerat magni
+praesentium? Itaque quaerat placeat commodi autem distinctio nam non illo cumque
+mollitia iste, saepe itaque vero animi dolore dolores, eum dolores iure
+reprehenderit impedit error, natus unde accusantium velit corrupti labore ea
+consectetur.

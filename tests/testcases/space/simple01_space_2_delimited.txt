@@ -1,0 +1,40 @@
+Dolore dicta fuga quasi at libero mollitia rem quia deserunt quibusdam sunt,
+maxime pariatur unde, blanditiis quis possimus? Reiciendis doloribus omnis
+quasi, fugit nulla delectus nisi quisquam, maxime quidem dolore eum voluptatibus
+molestias suscipit, ipsum est impedit voluptatum recusandae iure temporibus id,
+aliquid sint enim quasi repellat excepturi culpa. Eligendi doloremque tenetur
+tempora, dicta esse deleniti aperiam provident quibusdam quo.
+
+Recusandae non quisquam, optio eum ipsa ad molestiae est non assumenda id,
+recusandae hic dicta asperiores corrupti a quo? Repellat maxime fuga ut, eius
+sint amet quod aperiam, molestiae blanditiis omnis laudantium debitis assumenda
+vel ipsa accusantium reprehenderit nisi, deserunt magni laborum libero mollitia
+veniam sapiente. Quibusdam aperiam non in ab ut modi, numquam cupiditate vel
+perferendis, qui fugiat vero ut minus voluptas veritatis ea laudantium quas sint
+voluptate.
+
+Omnis sint mollitia iusto in neque dicta quos repellat, quibusdam quas veritatis
+quia atque aliquam nemo eaque dignissimos? Ut facilis est sint natus ipsam
+libero obcaecati architecto, quasi culpa necessitatibus veritatis dignissimos
+incidunt, beatae possimus vitae fugiat quidem vero sint est ut, quis natus
+molestias soluta numquam commodi modi deleniti explicabo dignissimos. Sit itaque
+sunt voluptatem nemo, explicabo saepe vitae deleniti culpa perferendis quibusdam
+dignissimos?
+
+aString   anInt   aDate        aFloat
+-------- ------- ------------ --------
+string1   1       2024-01-01   0.123
+string2   2       2024-01-02   1.456
+string3   3       2024-01-03   2.789
+string4   4       2024-01-04   3.123
+
+
+Necessitatibus maxime ea ipsum quos iusto animi repellat cum dolorum, itaque
+aliquam pariatur illo cumque minus unde cum officia quisquam eum autem,
+repudiandae facilis nesciunt sit maxime. Sit earum repellat adipisci omnis
+minima culpa libero assumenda minus, ullam aliquam possimus reiciendis, quasi
+fuga corporis molestiae veniam soluta saepe quis illum totam ex minus.
+Voluptates sint quisquam sequi impedit aperiam, quas porro ad blanditiis in
+omnis laudantium placeat, odio tempora magnam, optio illum dolore, maxime a
+minima exercitationem mollitia eligendi sit distinctio deserunt aspernatur
+similique quibusdam.
