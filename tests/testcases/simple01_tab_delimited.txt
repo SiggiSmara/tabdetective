@@ -1,0 +1,45 @@
+Inventore voluptates sint dolor nihil a atque alias voluptas, impedit nihil unde
+quae nam perferendis ipsam aspernatur doloremque numquam modi. Labore
+dignissimos earum quibusdam explicabo, iste exercitationem praesentium ut autem
+voluptate illum distinctio cum corporis hic animi. Possimus tempore porro
+voluptatem voluptate iure magni, tenetur amet eius, velit nulla modi labore
+voluptatibus quidem sint fugit in porro quae, reiciendis doloremque minima, ex
+assumenda debitis ipsa perspiciatis unde accusamus cum asperiores incidunt? At
+numquam maiores ab iure modi tenetur, eius placeat ratione, voluptatem
+dignissimos delectus eos adipisci pariatur aut magni fugit, delectus iure
+incidunt.
+
+aString	anInt	aDate	aFloat
+string1	1	2024-01-01	0.123
+string2	2	2024-01-02	1.456
+string3	3	2024-01-03	2.789
+string4	4	2024-01-04	3.123
+
+Fugiat nulla voluptate saepe porro facilis possimus rerum provident tenetur
+inventore reprehenderit, beatae dolores eveniet, soluta laudantium nihil in
+adipisci. Tempora assumenda similique maiores dolorem suscipit, totam architecto
+quia cum itaque impedit possimus maxime, quia facere laborum asperiores ducimus
+cupiditate quisquam ea ut, labore sed placeat deleniti veniam sit quisquam
+eveniet neque excepturi dignissimos quo, aliquam nostrum quos nesciunt animi
+harum tempore repellendus deserunt. Aliquid maxime aut natus quasi iusto ducimus
+rerum omnis, consectetur ipsa reiciendis, adipisci earum repudiandae accusantium
+aliquid, sed porro voluptate aliquam quidem necessitatibus excepturi laudantium
+reprehenderit, iste doloremque culpa nobis non laboriosam blanditiis.
+
+Mollitia eligendi doloremque maiores assumenda corrupti illo ab alias, ducimus
+cum temporibus? Saepe deleniti quisquam et vero debitis cupiditate ipsa hic
+odit, totam sit est temporibus minima delectus voluptate dignissimos. Quos
+perferendis sit officia nam nulla dolorum unde deserunt, esse illum at
+necessitatibus molestiae totam vero quod temporibus voluptatibus minus, quod
+laborum nobis error doloremque quo minus dolore quis alias natus ipsum,
+doloremque optio explicabo quis officiis eos, ipsam at voluptatibus voluptatem
+odit deserunt vitae corrupti ea error laboriosam esse.
+
+Consequuntur culpa id laboriosam, cumque sapiente quidem culpa ratione porro
+maxime beatae odio? Odit commodi sit, dicta quas libero quod veniam, tenetur
+harum accusamus suscipit fugiat accusantium iste recusandae error nisi qui
+maxime, distinctio impedit assumenda vitae eveniet officia vero? Repellat at
+suscipit, quibusdam voluptatum odit inventore assumenda est amet quis dolorem
+illum, nulla commodi laborum perspiciatis odit nihil corporis dolorem enim
+molestias magni nesciunt, laboriosam repellat molestiae illo? Ullam tempore vel
+quas voluptatibus, et necessitatibus exercitationem dolorem.

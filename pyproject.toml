@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "tabdetective"
+version = "0.1.0"
+description = "Tabulardata detective looks for tabular data in text files"
+authors = ["Sigurður Smárason"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pydantic = "^2.6.4"
+lorem-text = "^2.1"
+
+[tool.poetry.group.dev.dependencies]
+black = "^24.2.0"
+pyflakes = "^3.2.0"
+pre-commit = "<3.6"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

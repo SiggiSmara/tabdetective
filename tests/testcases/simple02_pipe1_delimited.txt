@@ -1,0 +1,39 @@
+    Repellat recusandae et, pariatur delectus incidunt fuga laboriosam excepturi
+temporibus nihil, ducimus minus nemo, neque ducimus voluptatem temporibus nam
+accusamus animi unde quasi, molestias culpa natus non dolorem? Nulla illum
+expedita labore quod voluptas, enim recusandae dolores sequi laborum nostrum sit
+repellat illum, praesentium accusantium provident non repellat mollitia dicta
+deleniti aut, doloribus porro reiciendis nesciunt, aspernatur eos dolores cum
+vitae officiis libero inventore expedita excepturi?
+    Nisi dicta possimus dolor ad ipsam non temporibus, ducimus cum repellendus et
+consectetur porro, quo maiores sunt. Labore deleniti reprehenderit quas porro,
+doloremque harum et. Fugit modi odio explicabo asperiores earum accusantium id
+nostrum consequatur praesentium, enim libero distinctio eaque, excepturi quo at
+maxime animi consequuntur hic praesentium est repellendus odio, a aliquam
+nesciunt laborum.
+       aString|anInt|aDate|aFloat
+       string1|1|2024-01-01|0.123
+       string2|2|2024-01-02|1.456
+       string3|3|2024-01-03|2.789
+       string4|4|2024-01-04|3.123
+    Voluptate deserunt provident modi impedit deleniti repellendus animi totam
+blanditiis, quo illum corporis harum aliquid minima molestiae adipisci
+reiciendis, modi possimus quam, dolor nesciunt sequi eaque eveniet laudantium
+recusandae, repellendus ratione numquam ipsam. Amet dolor laborum nihil facilis
+ducimus quas saepe labore eligendi esse, aliquid consectetur incidunt porro
+optio et aut harum ipsum commodi, ipsa doloremque numquam, recusandae nam ex
+libero fuga, debitis quia dolorum dignissimos perferendis recusandae dolorem
+nostrum natus repudiandae ab? Rerum suscipit placeat temporibus consequuntur,
+repudiandae unde temporibus odio necessitatibus minus eligendi officiis nostrum
+doloribus dolor quo, sunt ad temporibus ea amet animi cupiditate, atque
+voluptatum similique sint doloremque laborum animi dolor dignissimos eligendi ab
+expedita, dolor alias qui modi totam eius pariatur aspernatur soluta magnam?
+    Vitae mollitia exercitationem labore voluptate debitis esse quidem adipisci
+molestias, nobis laborum magnam non quibusdam officiis neque inventore eveniet
+eius? Adipisci numquam iusto veniam, sequi dolore laboriosam officiis? Adipisci
+facilis autem officiis obcaecati nobis rem quas minus, quis quae fugiat adipisci
+sed, accusamus eveniet delectus maxime minus et repudiandae distinctio aperiam,
+beatae eaque provident magnam ratione tempora suscipit hic deserunt, vitae qui
+quo cum nemo neque dolore? Soluta iste porro nesciunt asperiores consequuntur
+impedit eaque, voluptate provident commodi cumque, laudantium perspiciatis
+dolorem quia explicabo magni ex voluptate rerum, omnis enim necessitatibus et.
