@@ -1,11 +1,13 @@
-from typing import List
+from typing import List, Dict
 from pydantic import BaseModel
 
 
 class Table(BaseModel):
     line_start: int
     line_end: int
-    included_text: List[str]
+    raw_text: List[str]
+    headers: List[str]
+    rows: List[Dict]
 
 
 class Tables(BaseModel):
