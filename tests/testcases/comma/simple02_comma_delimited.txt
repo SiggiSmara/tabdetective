@@ -1,0 +1,21 @@
+    Quaerat adipisci esse sit aut quidem, animi rerum natus obcaecati dolor
+repellendus magnam dolores praesentium, natus eaque aliquid culpa similique
+quam, numquam ratione voluptate enim laboriosam laborum corporis vitae mollitia
+corrupti, aperiam ipsum incidunt? Molestiae hic laboriosam voluptates minus nam,
+facilis perspiciatis quae eligendi impedit optio ipsa obcaecati doloribus quasi,
+deleniti autem quam itaque.
+       aString,anInt,aDate,aFloat
+       string1,1,2024-01-01,0.123
+       string2,2,2024-01-02,1.456
+       string3,3,2024-01-03,2.789
+       string4,4,2024-01-04,3.123
+
+    Nobis et quis, id ad odit recusandae minima soluta dolorum asperiores a laborum,
+corrupti modi eius consequuntur dolorum facere hic earum ad sed esse, voluptas
+alias libero asperiores commodi est sequi rerum sapiente, rerum dignissimos
+vitae quas ipsam dicta excepturi tempora? Illum ratione rem harum mollitia
+voluptatem tempora vitae enim voluptatum a pariatur, quam voluptatem consequatur
+debitis obcaecati nostrum molestias minima officiis reiciendis accusantium,
+dolorum quidem deserunt porro eius temporibus quasi id dolor vitae. Quia eos
+deserunt reprehenderit tempora quod nobis dolorum dolore, nihil labore natus
+excepturi, accusantium quibusdam excepturi quod est inventore eum.

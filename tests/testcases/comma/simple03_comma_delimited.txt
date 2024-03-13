@@ -1,0 +1,17 @@
+	Temporibus eum quia voluptatum cupiditate veniam quibusdam quasi rerum eveniet
+accusantium ratione, ea nesciunt error eligendi, quas est ipsum molestias eaque
+qui quod sunt molestiae itaque? Quidem est aliquam ipsa illo quod velit quia,
+nulla harum eligendi.
+		aString,anInt,aDate,aFloat
+		string1,1,2024-01-01,0.123
+		string2,2,2024-01-02,1.456
+		string3,3,2024-01-03,2.789
+		string4,4,2024-01-04,3.123
+
+	Similique facere commodi cum, distinctio nobis cupiditate tempora earum possimus
+asperiores enim quod magni neque praesentium, quas dicta sed ipsa officiis odio
+quisquam adipisci nostrum neque magni, fuga vero pariatur, quibusdam nostrum id
+deserunt eius. Itaque perspiciatis quos alias aliquam libero quae recusandae
+dicta dolor consequuntur nam, aliquam accusantium et eius, amet dolore
+reprehenderit officia accusamus aliquid sunt, commodi dolorum maiores illo id
+repellat debitis voluptatibus, alias quis tempore.

@@ -1,0 +1,36 @@
+    Odio enim expedita explicabo voluptates id delectus, vel corrupti nobis quasi
+sapiente obcaecati hic a eaque beatae rerum, sed totam reprehenderit molestias
+expedita odio sequi deserunt, rerum ab assumenda? Eos omnis quibusdam quidem,
+cum ad in et deserunt, ut inventore delectus molestiae unde, in asperiores
+voluptatum recusandae non sint harum eligendi beatae odit voluptates.
+    Doloribus tenetur labore expedita adipisci dolore rem quidem, impedit quaerat
+tenetur ea quis fuga voluptatibus ratione esse? Voluptate ex voluptatibus amet
+et aspernatur blanditiis molestiae, consequatur amet dicta ipsum, natus veniam
+exercitationem expedita dolorum, tenetur dignissimos assumenda ex dolores
+delectus facere rerum tempore quo fuga blanditiis? Quas at officia dolorem ipsam
+accusantium voluptatem, ea adipisci quae officiis expedita id excepturi, nisi
+beatae pariatur temporibus minus delectus rem, ea officiis id cumque eum
+veritatis sunt veniam vero enim est, odit deserunt dolorum assumenda sint atque.
+Harum eligendi ab nam, quis accusamus officia nemo excepturi amet, aspernatur
+commodi ipsum sit dolore voluptate ad distinctio laudantium, ducimus cum quo qui
+accusantium nam totam eius porro sed at ullam.
+       aString;anInt;aDate;aFloat
+       string1;1;2024-01-01;0.123
+       string2;2;2024-01-02;1.456
+       string3;3;2024-01-03;2.789
+       string4;4;2024-01-04;3.123
+
+    Illum deleniti laudantium nemo cumque, error qui nobis odio sequi asperiores
+fugiat est? Tempore voluptatum magnam error iusto soluta accusamus impedit
+laboriosam, eum tenetur necessitatibus quis maiores veritatis nulla officiis
+molestiae assumenda numquam, in quibusdam dignissimos commodi quas temporibus
+vitae repudiandae saepe ab ex quo, reprehenderit repellat pariatur deserunt
+aperiam sapiente assumenda obcaecati totam excepturi eum distinctio. Voluptatem
+nobis quibusdam, placeat sunt maxime quia iusto vero nisi sapiente, architecto
+omnis numquam accusantium molestiae inventore minima et repudiandae rem.
+    Distinctio accusantium rem officiis nesciunt magnam impedit deserunt
+necessitatibus aut, expedita esse aperiam corporis placeat deserunt fuga ut
+quasi ratione, architecto alias ipsam, sed neque at molestiae soluta? Quam
+incidunt cum perferendis animi expedita atque doloremque ullam natus temporibus
+voluptatum, optio iste voluptatibus quasi laboriosam mollitia aperiam in debitis
+ab sit quibusdam?

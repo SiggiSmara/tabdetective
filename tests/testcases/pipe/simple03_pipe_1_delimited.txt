@@ -1,0 +1,45 @@
+	Illo eaque atque repellendus accusamus a doloribus, repellendus accusantium
+eaque itaque nam facere veniam eos nulla necessitatibus nemo, temporibus
+consequuntur totam est eos ab tempore aliquid maiores similique odit, quam ea
+nisi eveniet voluptatibus. Rem repellendus saepe alias tempore optio impedit
+vero distinctio, aut exercitationem expedita modi facilis optio facere id eius
+repellat ut dignissimos.
+	Molestiae facilis nemo rem neque illum quia alias iusto architecto voluptatibus
+ullam, dolorum delectus harum omnis officiis commodi maxime voluptatem
+necessitatibus, quas quis fugiat sapiente, neque quisquam itaque consequatur,
+laborum autem repudiandae corporis incidunt alias? Expedita doloremque numquam
+quibusdam voluptatibus ipsa provident, dolor adipisci aliquam ipsum at numquam
+vel voluptate praesentium enim velit perferendis, doloribus aperiam non, maxime
+a neque voluptas provident libero tempora illo cupiditate hic?
+		aString|anInt|aDate|aFloat
+		string1|1|2024-01-01|0.123
+		string2|2|2024-01-02|1.456
+		string3|3|2024-01-03|2.789
+		string4|4|2024-01-04|3.123
+
+	Nobis consequuntur et voluptatum reiciendis ad quam aut amet ducimus, aspernatur
+non sapiente ea animi veritatis sit in quos quae, magni suscipit illum est velit
+laudantium sapiente ipsa doloribus obcaecati ducimus quidem? Delectus qui at
+nobis perspiciatis mollitia dolores itaque iusto, nisi inventore aliquam
+deleniti quas repellat, esse reiciendis deserunt corporis perspiciatis quisquam,
+quidem soluta sit maiores rem, minima laudantium cumque aliquid harum officia
+nemo ex.
+	Eveniet quaerat cum provident, molestias iusto qui incidunt eius tempora? Fuga
+iusto minus vero nihil possimus quaerat atque placeat quibusdam expedita ut,
+dolor praesentium reiciendis cum consequuntur recusandae distinctio voluptatem
+omnis et quis delectus, tempora ut voluptate qui pariatur facere, et molestias
+facilis saepe optio eveniet libero asperiores voluptate. Nostrum sed aut dolores
+neque nobis reprehenderit quibusdam numquam amet maxime, accusantium quo porro
+harum repellat maxime architecto facilis recusandae et blanditiis?
+	Hic iure esse veritatis cum commodi, deleniti perferendis vero quasi ab ut
+facere corporis magni nam, temporibus esse expedita voluptatum debitis labore
+dolorum nobis architecto ab cupiditate, est expedita reprehenderit vel fugit id
+accusantium exercitationem sit voluptatibus corporis, enim atque asperiores quod
+sed deserunt ut aspernatur quidem quos voluptatem? Corporis libero deserunt quam
+repellendus vel necessitatibus placeat laboriosam non nisi, unde dicta itaque
+expedita rerum aperiam temporibus, est alias sapiente dicta. Commodi deleniti
+illum omnis porro placeat id aut modi voluptates laboriosam, expedita unde omnis
+error, beatae culpa libero expedita, reprehenderit beatae ipsum molestiae. Eaque
+voluptas quas ex et saepe delectus voluptatibus voluptatum, unde accusantium
+aspernatur aperiam quasi quo minima dolores aliquid iusto voluptatum esse,
+aspernatur maiores aperiam.

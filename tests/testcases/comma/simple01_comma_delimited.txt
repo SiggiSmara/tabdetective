@@ -1,0 +1,41 @@
+Dolores magnam amet aut eius iusto, illum architecto perferendis odit minima rem
+quaerat illo quis nemo et nam? Iure dolorum eveniet harum cumque tempore soluta
+neque pariatur ullam repellat, provident asperiores quod error cupiditate
+repellendus praesentium debitis neque, impedit accusamus ab maxime nostrum
+dolores quis culpa vero. Vero quos cum hic maxime praesentium asperiores,
+aliquam accusantium dolore, rerum velit perspiciatis amet ad dolorum deleniti
+vel? Amet quisquam tempore, veritatis minima totam accusantium dolor
+reprehenderit similique maiores repudiandae praesentium eius, impedit fugit
+earum eligendi molestias porro nisi delectus animi sunt ducimus, quidem soluta
+ullam.
+
+aString,anInt,aDate,aFloat
+string1,1,2024-01-01,0.123
+string2,2,2024-01-02,1.456
+string3,3,2024-01-03,2.789
+string4,4,2024-01-04,3.123
+
+
+Doloribus culpa excepturi molestiae totam, suscipit illo optio amet saepe est,
+porro saepe quam suscipit est, laborum aliquam perspiciatis porro accusamus? Et
+error eum voluptates deleniti non, recusandae adipisci ullam fugiat, iure id
+quae amet adipisci aliquam veritatis, natus ad nobis porro quo architecto
+deserunt placeat aperiam enim nam. Et doloremque quaerat voluptas tempore error
+consequatur enim perferendis distinctio deserunt, ab minus debitis laborum
+voluptate. Ipsam iure aliquid sit esse temporibus, voluptate odit omnis
+reprehenderit, quidem facere debitis enim, amet quia beatae quas reprehenderit,
+modi architecto voluptatibus assumenda dolores consectetur harum deserunt
+laboriosam ad optio?
+
+Inventore unde error numquam itaque est, earum maiores inventore expedita
+cupiditate aperiam fugit vel? Ab tempore impedit possimus laboriosam magnam
+saepe doloribus amet dolor facilis eos, necessitatibus minus eveniet facilis
+itaque enim, nostrum saepe at debitis ullam nihil quibusdam omnis provident.
+Tempora doloremque fugit laborum dignissimos delectus corporis iure numquam
+aliquid earum, adipisci odio laboriosam id reiciendis voluptatum non saepe,
+veniam illum odit a nam ipsa, neque ipsam magnam dolorem necessitatibus unde nam
+corporis eligendi nostrum illum consequatur.
+
+Labore esse enim eligendi hic praesentium ut saepe alias, iure nulla autem sint
+nisi? Vel odit praesentium a, doloremque dolorem est omnis vero natus in ex hic,
+delectus ullam nemo molestiae suscipit iste consectetur sint illum eum?

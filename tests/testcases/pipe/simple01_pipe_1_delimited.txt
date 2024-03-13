@@ -1,0 +1,57 @@
+Repellendus molestias mollitia illo quo dolorum labore laboriosam ipsa debitis,
+assumenda numquam nemo reprehenderit repellat debitis deleniti eveniet
+blanditiis at dolor distinctio, iusto libero vitae dicta ducimus minima, iste
+culpa et quisquam obcaecati cum esse repellendus laudantium accusamus. Non
+ducimus quasi pariatur eveniet, deserunt aperiam iusto a dolorum atque ullam,
+voluptatum odio iure laboriosam fuga commodi necessitatibus perspiciatis quam,
+eos dicta vero eius magni harum id nemo in, nobis molestias eaque velit ea
+assumenda alias tenetur doloremque? Fuga minus numquam sequi dolorem, temporibus
+expedita cum illum veniam debitis, fugit aspernatur voluptates sapiente
+corrupti. Ab eaque a vero veniam tenetur at inventore reiciendis dolorem ipsum
+quaerat, fuga repudiandae necessitatibus atque praesentium ipsam doloremque
+sequi nulla facere, debitis soluta consequatur nihil quia recusandae sed hic
+repudiandae, ipsum ab reprehenderit cum alias temporibus voluptatibus tempora
+deleniti modi repellat ea, autem placeat corrupti iure illo quasi ducimus
+accusantium debitis similique ad fugit.
+
+Repellendus ut aliquam fugit cupiditate, quibusdam quis provident sint tempore
+alias, fuga quisquam dolores atque consequuntur id ea, minima harum eos unde?
+Consequatur rerum perferendis distinctio officia possimus, quae numquam deleniti
+odio consequuntur aperiam. Ullam tenetur cupiditate eum obcaecati voluptatibus
+est praesentium culpa repudiandae, aliquam eligendi inventore accusantium vitae
+quis autem eius nihil distinctio ipsam saepe, ipsam reprehenderit illo molestias
+fugiat nobis ipsum beatae ad deserunt, iure rerum quia esse est optio commodi
+tempore, commodi quaerat ipsum quasi voluptatibus similique consectetur
+corporis?
+
+Est dolore dolores adipisci esse sapiente aspernatur maxime ex eum ea, iure
+magni mollitia expedita ad, numquam eum quisquam? Numquam quo blanditiis fugit
+temporibus magni, earum voluptas odit qui necessitatibus ad beatae a, facere nam
+quia facilis aperiam, dolorum vel eligendi officia animi laboriosam error magni
+eaque provident modi.
+
+aString|anInt|aDate|aFloat
+string1|1|2024-01-01|0.123
+string2|2|2024-01-02|1.456
+string3|3|2024-01-03|2.789
+string4|4|2024-01-04|3.123
+
+
+Ipsum facere ducimus sit, accusantium magnam dolore officia enim repudiandae hic
+aperiam quae nemo inventore placeat, culpa obcaecati expedita soluta ipsam
+ducimus autem consequatur perferendis, quasi maxime impedit quod quidem
+repudiandae fuga iusto eveniet laudantium, mollitia consequatur debitis ex nemo
+cum enim ut excepturi culpa. Exercitationem facere laudantium animi, omnis
+eligendi accusamus illum doloribus amet blanditiis iure? Labore commodi
+perspiciatis voluptas cumque quo sunt praesentium fuga reiciendis tempora
+nostrum, optio perferendis itaque voluptate debitis ipsam unde enim eum
+repellendus, quas quos vero a nostrum quisquam placeat, porro voluptatibus
+similique dolores ea eius et, ea incidunt molestias molestiae?
+
+Quibusdam tenetur praesentium rem cumque corrupti numquam quam, molestias
+explicabo non commodi eius vel, eius eveniet ratione suscipit pariatur
+distinctio tenetur enim, nostrum quaerat dolor totam accusantium aperiam numquam
+similique ipsa error quasi, repudiandae nesciunt voluptates magni optio hic.
+Debitis fugiat voluptas nemo cumque incidunt magnam, earum soluta magni omnis
+quam reprehenderit ipsum neque nesciunt cumque, provident exercitationem culpa
+veritatis doloremque, dicta delectus sit autem, ipsa minima quaerat cum.
