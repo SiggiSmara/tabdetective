@@ -10,5 +10,6 @@ class Table(BaseModel):
     rows: List[Dict]
 
 
-class Tables(BaseModel):
-    tables: List[Table]
+class FoundTable(BaseModel):
+    my_table: Table
+    line_end: int
